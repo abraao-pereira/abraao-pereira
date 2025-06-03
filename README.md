@@ -1,8 +1,8 @@
 ### *Olá sou Abraão Pereira!* 🧑🏻
 #
-* _Jovem de 25 anos amante de tecnologia, musica, games, filmes, livros, e que sonha em conhecer o mundo!_
+* _Tenho 28 anos sou um amante de tecnologia, musica, games, filmes, livros, e que sonha em conhecer o mundo!_
 - 💪🏻 _Desenvolvendo projetos para portfólio._
-- 👨🏻‍🎓 _Estudando Engenharia de Software e desenvolvimento web._
+- 👨🏻‍🎓 _Formado em Engenharia de Software._
 - ⚡ _Curiosidades: toco violão, amo filmes._
 # 
 <div>
